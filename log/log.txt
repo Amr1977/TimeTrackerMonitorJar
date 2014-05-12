@@ -1,0 +1,666 @@
+[10-5-2014 04:43:32] directory separator: \
+[10-5-2014 04:43:32] Adding item: Monitor
+[10-5-2014 04:43:32] Adding item: Sounds
+[10-5-2014 04:43:32] Adding item: TimeTracker
+[10-5-2014 04:57:38] directory separator: \
+[10-5-2014 04:57:38] Adding item: Monitor
+[10-5-2014 04:57:38] Adding item: Sounds
+[10-5-2014 04:57:38] Adding item: TimeTracker
+[10-5-2014 05:01:57] directory separator: \
+[10-5-2014 05:01:57] Adding item: Monitor
+[10-5-2014 05:01:57] Adding item: Sounds
+[10-5-2014 05:01:57] Adding item: TimeTracker
+[10-5-2014 05:03:51] directory separator: \
+[10-5-2014 05:03:51] Adding item: Monitor
+[10-5-2014 05:03:51] Adding item: Sounds
+[10-5-2014 05:03:51] Adding item: TimeTracker
+[10-5-2014 05:13:34] directory separator: \
+[10-5-2014 05:13:34] Adding item: Monitor
+[10-5-2014 05:13:34] Adding item: Sounds
+[10-5-2014 05:13:34] Adding item: TimeTracker
+[10-5-2014 05:13:37] Tracker is counting time.
+[10-5-2014 05:14:37] Tracker is counting time.
+[10-5-2014 05:16:44] Tracker is counting time.
+[10-5-2014 05:17:44] Tracker is counting time.
+[10-5-2014 05:19:21] directory separator: \
+[10-5-2014 05:19:21] Adding item: Monitor
+[10-5-2014 05:19:21] Adding item: Sounds
+[10-5-2014 05:19:21] Adding item: TimeTracker
+[10-5-2014 05:19:24] Tracker is counting time.
+[10-5-2014 05:20:24] Tracker is counting time.
+[10-5-2014 05:21:24] Tracker is counting time.
+[10-5-2014 05:22:24] Tracker is counting time.
+[10-5-2014 05:23:25] Tracker is counting time.
+[10-5-2014 05:24:25] Tracker is counting time.
+[10-5-2014 05:25:25] Tracker is counting time.
+[10-5-2014 05:26:25] Tracker is counting time.
+[10-5-2014 05:27:25] Tracker is counting time.
+[10-5-2014 05:28:25] Tracker is counting time.
+[10-5-2014 05:29:25] Tracker is counting time.
+[10-5-2014 05:30:25] Tracker is counting time.
+[10-5-2014 05:31:25] Tracker is counting time.
+[10-5-2014 05:32:25] Tracker is counting time.
+[10-5-2014 05:33:25] Tracker is counting time.
+[10-5-2014 05:34:25] Tracker is counting time.
+[10-5-2014 05:35:26] Tracker is counting time.
+[10-5-2014 05:36:26] Tracker is counting time.
+[10-5-2014 05:37:26] Tracker is counting time.
+[10-5-2014 05:38:26] Tracker is counting time.
+[10-5-2014 05:39:26] Tracker is counting time.
+[10-5-2014 05:40:26] Tracker is counting time.
+[10-5-2014 05:41:26] Tracker is counting time.
+[10-5-2014 05:42:26] Tracker is counting time.
+[10-5-2014 05:43:26] Tracker is counting time.
+[10-5-2014 05:44:26] Tracker is counting time.
+[10-5-2014 05:45:26] Tracker is counting time.
+[10-5-2014 05:46:26] Tracker is counting time.
+[10-5-2014 05:47:26] Tracker is counting time.
+[10-5-2014 05:48:26] Tracker is counting time.
+[10-5-2014 05:49:27] Tracker is counting time.
+[10-5-2014 05:50:27] Tracker is counting time.
+[10-5-2014 05:51:27] Tracker is counting time.
+[10-5-2014 05:52:27] Tracker is counting time.
+[10-5-2014 05:53:27] Tracker is counting time.
+[10-5-2014 05:54:27] Tracker is counting time.
+[10-5-2014 05:55:27] Tracker is counting time.
+[10-5-2014 05:56:27] Tracker is counting time.
+[10-5-2014 05:57:27] Tracker is counting time.
+[10-5-2014 05:58:27] Tracker is counting time.
+[10-5-2014 05:59:27] Tracker is counting time.
+[10-5-2014 06:00:27] Tracker is counting time.
+[10-5-2014 06:01:28] Tracker is counting time.
+[10-5-2014 06:02:28] Tracker is counting time.
+[10-5-2014 06:03:28] Tracker is counting time.
+[10-5-2014 06:04:28] Tracker is counting time.
+[10-5-2014 06:05:28] Tracker is counting time.
+[10-5-2014 06:06:28] Tracker is counting time.
+[10-5-2014 06:07:28] Tracker is counting time.
+[10-5-2014 06:08:28] Tracker is counting time.
+[10-5-2014 06:09:28] Tracker is counting time.
+[10-5-2014 06:10:28] Tracker is counting time.
+[10-5-2014 06:11:28] Tracker is counting time.
+[10-5-2014 06:12:28] Tracker is counting time.
+[10-5-2014 06:13:28] Tracker is counting time.
+[10-5-2014 06:14:33] directory separator: \
+[10-5-2014 06:14:33] Adding item: Monitor
+[10-5-2014 06:14:33] Adding item: Sounds
+[10-5-2014 06:14:33] Adding item: TimeTracker
+[10-5-2014 06:15:09] directory separator: \
+[10-5-2014 06:15:09] Adding item: Monitor
+[10-5-2014 06:15:09] Adding item: Sounds
+[10-5-2014 06:15:09] Adding item: TimeTracker
+[10-5-2014 06:15:09] Tracker is counting time.
+[10-5-2014 06:16:10] Tracker is counting time.
+[10-5-2014 06:17:10] Tracker is counting time.
+[10-5-2014 06:18:10] Tracker is counting time.
+[10-5-2014 06:19:10] Tracker is counting time.
+[11-5-2014 06:30:12] directory separator: \
+[11-5-2014 06:30:12] Adding item: Monitor
+[11-5-2014 06:30:12] Adding item: Sounds
+[11-5-2014 06:30:12] Adding item: TimeTracker
+[11-5-2014 06:55:53] directory separator: \
+[11-5-2014 06:55:53] Adding item: Monitor
+[11-5-2014 06:55:53] Adding item: Sounds
+[11-5-2014 06:55:53] Adding item: TimeTracker
+[11-5-2014 07:00:22] directory separator: \
+[11-5-2014 07:00:22] Adding item: Monitor
+[11-5-2014 07:00:22] Adding item: Sounds
+[11-5-2014 07:00:22] Adding item: TimeTracker
+[11-5-2014 07:21:15] Tracker is counting time.
+[11-5-2014 07:22:15] Tracker is counting time.
+[11-5-2014 07:23:15] Tracker is counting time.
+[11-5-2014 07:24:15] Tracker is counting time.
+[11-5-2014 07:25:16] Tracker is counting time.
+[11-5-2014 07:26:16] Tracker is counting time.
+[11-5-2014 07:27:16] Tracker is counting time.
+[11-5-2014 07:28:16] Tracker is counting time.
+[11-5-2014 07:29:16] Tracker is counting time.
+[11-5-2014 07:30:16] Tracker is counting time.
+[11-5-2014 07:31:16] Tracker is counting time.
+[11-5-2014 07:32:16] Tracker is counting time.
+[11-5-2014 07:33:16] Tracker is counting time.
+[11-5-2014 07:34:16] Tracker is counting time.
+[11-5-2014 07:35:16] Tracker is counting time.
+[11-5-2014 07:36:16] Tracker is counting time.
+[11-5-2014 07:37:16] Tracker is counting time.
+[11-5-2014 07:38:17] Tracker is counting time.
+[11-5-2014 07:39:17] Tracker is counting time.
+[11-5-2014 07:40:17] Tracker is counting time.
+[11-5-2014 07:41:17] Tracker is counting time.
+[11-5-2014 07:42:17] Tracker is counting time.
+[11-5-2014 07:43:17] Tracker is counting time.
+[11-5-2014 07:44:17] Tracker is counting time.
+[11-5-2014 07:45:17] Tracker is counting time.
+[11-5-2014 07:46:17] Tracker is counting time.
+[11-5-2014 07:47:17] Tracker is counting time.
+[11-5-2014 07:48:17] Tracker is counting time.
+[11-5-2014 07:49:17] Tracker is counting time.
+[11-5-2014 07:50:17] Tracker is counting time.
+[11-5-2014 07:51:18] Tracker is counting time.
+[11-5-2014 07:52:18] Tracker is counting time.
+[11-5-2014 07:53:18] Tracker is counting time.
+[11-5-2014 07:54:18] Tracker is counting time.
+[11-5-2014 07:55:18] Tracker is counting time.
+[11-5-2014 07:56:18] Tracker is counting time.
+[11-5-2014 07:57:18] Tracker is counting time.
+[11-5-2014 07:58:18] Tracker is counting time.
+[11-5-2014 07:59:18] Tracker is counting time.
+[11-5-2014 08:00:18] Tracker is counting time.
+[11-5-2014 08:01:18] Tracker is counting time.
+[11-5-2014 08:02:18] Tracker is counting time.
+[11-5-2014 08:03:18] Tracker is counting time.
+[11-5-2014 08:04:18] Tracker is counting time.
+[11-5-2014 08:05:18] Tracker is counting time.
+[11-5-2014 08:06:18] Tracker is counting time.
+[11-5-2014 08:07:18] Tracker is counting time.
+[11-5-2014 08:08:18] Tracker is counting time.
+[11-5-2014 08:16:59] Tracker is counting time.
+[11-5-2014 08:17:59] Tracker is counting time.
+[11-5-2014 08:18:59] Tracker is counting time.
+[11-5-2014 08:19:59] Tracker is counting time.
+[11-5-2014 08:20:59] Tracker is counting time.
+[11-5-2014 08:21:59] Tracker is counting time.
+[11-5-2014 08:22:59] Tracker is counting time.
+[11-5-2014 08:23:42] directory separator: \
+[11-5-2014 08:23:42] Adding item: Monitor
+[11-5-2014 08:23:42] Adding item: Sounds
+[11-5-2014 08:23:42] Adding item: TimeTracker
+[11-5-2014 08:23:46] Tracker is counting time.
+[11-5-2014 08:24:46] Tracker is counting time.
+[11-5-2014 08:25:47] Tracker is counting time.
+[11-5-2014 08:26:47] Tracker is counting time.
+[11-5-2014 08:27:47] Tracker is counting time.
+[11-5-2014 08:28:47] Tracker is counting time.
+[11-5-2014 08:29:47] Tracker is counting time.
+[11-5-2014 08:30:47] Tracker is counting time.
+[11-5-2014 08:31:47] Tracker is counting time.
+[11-5-2014 08:32:47] Tracker is counting time.
+[11-5-2014 08:33:47] Tracker is counting time.
+[11-5-2014 08:34:47] Tracker is counting time.
+[11-5-2014 08:35:48] Tracker is counting time.
+[11-5-2014 08:36:48] Tracker is counting time.
+[11-5-2014 08:37:48] Tracker is counting time.
+[11-5-2014 08:38:48] Tracker is counting time.
+[11-5-2014 08:39:48] Tracker is counting time.
+[11-5-2014 08:40:48] Tracker is counting time.
+[11-5-2014 08:41:48] Tracker is counting time.
+[11-5-2014 08:42:48] Tracker is counting time.
+[11-5-2014 08:43:48] Tracker is counting time.
+[11-5-2014 08:44:48] Tracker is counting time.
+[11-5-2014 08:45:48] Tracker is counting time.
+[11-5-2014 08:46:48] Tracker is counting time.
+[11-5-2014 08:47:48] Tracker is counting time.
+[11-5-2014 08:48:49] Tracker is counting time.
+[11-5-2014 09:19:27] Tracker is counting time.
+[11-5-2014 09:20:27] Tracker is counting time.
+[11-5-2014 09:21:27] Tracker is counting time.
+[11-5-2014 09:22:27] Tracker is counting time.
+[11-5-2014 09:23:27] Tracker is counting time.
+[11-5-2014 09:24:27] Tracker is counting time.
+[11-5-2014 09:25:27] Tracker is counting time.
+[11-5-2014 09:26:27] Tracker is counting time.
+[11-5-2014 09:27:28] Tracker is counting time.
+[11-5-2014 09:28:28] Tracker is counting time.
+[11-5-2014 09:29:28] Tracker is counting time.
+[11-5-2014 09:30:28] Tracker is counting time.
+[11-5-2014 09:31:28] Tracker is counting time.
+[11-5-2014 09:32:28] Tracker is counting time.
+[11-5-2014 09:33:28] Tracker is counting time.
+[11-5-2014 09:34:28] Tracker is counting time.
+[11-5-2014 09:35:28] Tracker is counting time.
+[11-5-2014 09:36:28] Tracker is counting time.
+[11-5-2014 09:37:28] Tracker is counting time.
+[11-5-2014 09:38:28] Tracker is counting time.
+[11-5-2014 09:39:29] Tracker is counting time.
+[11-5-2014 09:40:29] Tracker is counting time.
+[11-5-2014 09:41:29] Tracker is counting time.
+[11-5-2014 09:42:29] Tracker is counting time.
+[11-5-2014 09:43:29] Tracker is counting time.
+[11-5-2014 09:44:29] Tracker is counting time.
+[11-5-2014 09:45:29] Tracker is counting time.
+[11-5-2014 09:46:29] Tracker is counting time.
+[11-5-2014 09:47:29] Tracker is counting time.
+[11-5-2014 09:48:29] Tracker is counting time.
+[11-5-2014 09:49:29] Tracker is counting time.
+[11-5-2014 09:50:29] Tracker is counting time.
+[11-5-2014 09:51:29] Tracker is counting time.
+[11-5-2014 09:52:29] Tracker is counting time.
+[11-5-2014 09:53:29] Tracker is counting time.
+[11-5-2014 09:54:30] Tracker is counting time.
+[11-5-2014 09:55:30] Tracker is counting time.
+[11-5-2014 09:56:30] Tracker is counting time.
+[11-5-2014 09:57:30] Tracker is counting time.
+[11-5-2014 09:58:30] Tracker is counting time.
+[11-5-2014 09:59:30] Tracker is counting time.
+[11-5-2014 10:00:30] Tracker is counting time.
+[11-5-2014 10:01:30] Tracker is counting time.
+[11-5-2014 10:02:30] Tracker is counting time.
+[11-5-2014 10:03:30] Tracker is counting time.
+[11-5-2014 10:04:30] Tracker is counting time.
+[11-5-2014 10:05:30] Tracker is counting time.
+[11-5-2014 10:06:31] Tracker is counting time.
+[11-5-2014 10:07:31] Tracker is counting time.
+[11-5-2014 10:08:31] Tracker is counting time.
+[11-5-2014 10:09:31] Tracker is counting time.
+[11-5-2014 10:10:31] Tracker is counting time.
+[11-5-2014 10:11:31] Tracker is counting time.
+[11-5-2014 10:12:31] Tracker is counting time.
+[11-5-2014 10:13:31] Tracker is counting time.
+[11-5-2014 10:14:31] Tracker is counting time.
+[11-5-2014 10:15:31] Tracker is counting time.
+[11-5-2014 10:16:31] Tracker is counting time.
+[11-5-2014 10:17:31] Tracker is counting time.
+[11-5-2014 10:18:32] Tracker is counting time.
+[11-5-2014 10:19:37] Tracker is NOT counting time.
+[11-5-2014 10:20:43] Tracker is NOT counting time.
+[11-5-2014 10:21:49] Tracker is NOT counting time.
+[11-5-2014 10:22:55] Tracker is NOT counting time.
+[11-5-2014 10:24:00] Tracker is NOT counting time.
+[11-5-2014 10:25:07] Tracker is NOT counting time.
+[11-5-2014 10:26:12] Tracker is NOT counting time.
+[11-5-2014 10:27:18] Tracker is NOT counting time.
+[11-5-2014 10:28:24] Tracker is NOT counting time.
+[11-5-2014 10:29:29] Tracker is counting time.
+[11-5-2014 10:30:29] Tracker is counting time.
+[11-5-2014 10:31:29] Tracker is counting time.
+[11-5-2014 10:32:29] Tracker is counting time.
+[11-5-2014 10:33:29] Tracker is counting time.
+[11-5-2014 10:34:30] Tracker is counting time.
+[11-5-2014 10:35:30] Tracker is counting time.
+[11-5-2014 10:36:30] Tracker is counting time.
+[11-5-2014 10:37:30] Tracker is counting time.
+[11-5-2014 10:38:30] Tracker is counting time.
+[11-5-2014 10:39:30] Tracker is counting time.
+[11-5-2014 10:40:30] Tracker is counting time.
+[11-5-2014 10:41:30] Tracker is counting time.
+[11-5-2014 10:42:30] Tracker is counting time.
+[11-5-2014 10:43:30] Tracker is counting time.
+[11-5-2014 10:44:30] Tracker is counting time.
+[11-5-2014 10:45:30] Tracker is counting time.
+[11-5-2014 10:46:30] Tracker is counting time.
+[11-5-2014 10:47:31] Tracker is counting time.
+[11-5-2014 10:48:31] Tracker is counting time.
+[11-5-2014 10:49:31] Tracker is counting time.
+[11-5-2014 10:50:31] Tracker is counting time.
+[11-5-2014 10:51:31] Tracker is counting time.
+[11-5-2014 10:52:31] Tracker is counting time.
+[11-5-2014 10:53:31] Tracker is counting time.
+[11-5-2014 10:54:31] Tracker is counting time.
+[11-5-2014 10:55:31] Tracker is counting time.
+[11-5-2014 10:56:31] Tracker is counting time.
+[11-5-2014 10:57:31] Tracker is counting time.
+[11-5-2014 10:58:31] Tracker is counting time.
+[11-5-2014 10:59:32] Tracker is counting time.
+[11-5-2014 11:00:32] Tracker is counting time.
+[11-5-2014 11:01:32] Tracker is counting time.
+[11-5-2014 11:02:32] Tracker is counting time.
+[11-5-2014 11:03:32] Tracker is counting time.
+[11-5-2014 11:04:32] Tracker is counting time.
+[11-5-2014 11:05:32] Tracker is counting time.
+[11-5-2014 11:06:32] Tracker is counting time.
+[11-5-2014 11:07:32] Tracker is counting time.
+[11-5-2014 11:08:32] Tracker is counting time.
+[11-5-2014 11:09:32] Tracker is counting time.
+[11-5-2014 11:10:32] Tracker is counting time.
+[11-5-2014 11:11:32] Tracker is counting time.
+[11-5-2014 11:12:32] Tracker is counting time.
+[11-5-2014 11:13:33] Tracker is counting time.
+[11-5-2014 11:14:33] Tracker is counting time.
+[11-5-2014 11:15:33] Tracker is counting time.
+[11-5-2014 11:16:33] Tracker is counting time.
+[11-5-2014 11:17:33] Tracker is counting time.
+[11-5-2014 11:18:33] Tracker is counting time.
+[11-5-2014 11:19:33] Tracker is counting time.
+[11-5-2014 11:20:33] Tracker is counting time.
+[11-5-2014 11:21:33] Tracker is counting time.
+[11-5-2014 11:22:33] Tracker is counting time.
+[11-5-2014 11:23:33] Tracker is counting time.
+[11-5-2014 11:24:33] Tracker is counting time.
+[11-5-2014 11:25:34] Tracker is counting time.
+[11-5-2014 11:26:34] Tracker is counting time.
+[11-5-2014 11:27:34] Tracker is counting time.
+[11-5-2014 11:28:34] Tracker is counting time.
+[11-5-2014 11:29:52] Tracker is NOT counting time.
+[11-5-2014 11:30:59] Tracker is NOT counting time.
+[11-5-2014 11:32:05] Tracker is NOT counting time.
+[11-5-2014 11:33:11] Tracker is NOT counting time.
+[11-5-2014 11:34:16] Tracker is NOT counting time.
+[11-5-2014 11:35:22] Tracker is NOT counting time.
+[11-5-2014 11:36:28] Tracker is NOT counting time.
+[11-5-2014 11:37:34] Tracker is NOT counting time.
+[11-5-2014 11:38:40] Tracker is NOT counting time.
+[11-5-2014 11:39:45] Tracker is counting time.
+[11-5-2014 11:40:45] Tracker is counting time.
+[11-5-2014 11:41:45] Tracker is counting time.
+[11-5-2014 11:42:45] Tracker is counting time.
+[11-5-2014 11:43:45] Tracker is counting time.
+[11-5-2014 11:44:45] Tracker is counting time.
+[11-5-2014 11:45:46] Tracker is counting time.
+[11-5-2014 11:46:46] Tracker is counting time.
+[11-5-2014 11:47:46] Tracker is counting time.
+[11-5-2014 11:48:46] Tracker is counting time.
+[11-5-2014 11:49:46] Tracker is counting time.
+[11-5-2014 11:50:46] Tracker is counting time.
+[11-5-2014 11:51:46] Tracker is counting time.
+[11-5-2014 11:52:46] Tracker is counting time.
+[11-5-2014 11:53:46] Tracker is counting time.
+[11-5-2014 11:54:46] Tracker is counting time.
+[11-5-2014 11:55:46] Tracker is counting time.
+[11-5-2014 11:56:47] Tracker is counting time.
+[11-5-2014 11:57:47] Tracker is counting time.
+[11-5-2014 11:58:47] Tracker is counting time.
+[11-5-2014 11:59:47] Tracker is counting time.
+[11-5-2014 12:00:47] Tracker is counting time.
+[11-5-2014 12:01:47] Tracker is counting time.
+[11-5-2014 12:02:47] Tracker is counting time.
+[11-5-2014 12:03:47] Tracker is counting time.
+[11-5-2014 12:04:47] Tracker is counting time.
+[11-5-2014 12:05:48] Tracker is counting time.
+[11-5-2014 12:06:48] Tracker is counting time.
+[11-5-2014 12:07:48] Tracker is counting time.
+[11-5-2014 12:08:48] Tracker is counting time.
+[11-5-2014 12:09:48] Tracker is counting time.
+[11-5-2014 12:10:48] Tracker is counting time.
+[11-5-2014 12:11:48] Tracker is counting time.
+[11-5-2014 12:12:48] Tracker is counting time.
+[11-5-2014 12:13:48] Tracker is counting time.
+[11-5-2014 12:14:48] Tracker is counting time.
+[11-5-2014 12:15:49] Tracker is counting time.
+[11-5-2014 12:16:49] Tracker is counting time.
+[11-5-2014 12:17:49] Tracker is counting time.
+[11-5-2014 12:18:49] Tracker is counting time.
+[11-5-2014 12:51:06] directory separator: \
+[11-5-2014 12:51:06] Adding item: Monitor
+[11-5-2014 12:51:06] Adding item: Sounds
+[11-5-2014 12:51:06] Adding item: TimeTracker
+[11-5-2014 01:10:55] Tracker is counting time.
+[11-5-2014 01:11:55] Tracker is counting time.
+[11-5-2014 01:12:55] Tracker is counting time.
+[11-5-2014 01:13:55] Tracker is counting time.
+[11-5-2014 01:14:55] Tracker is counting time.
+[11-5-2014 01:15:55] Tracker is counting time.
+[11-5-2014 01:16:56] Tracker is counting time.
+[11-5-2014 01:17:56] Tracker is counting time.
+[11-5-2014 01:18:56] Tracker is counting time.
+[11-5-2014 01:19:56] Tracker is counting time.
+[11-5-2014 01:20:56] Tracker is counting time.
+[11-5-2014 01:21:56] Tracker is counting time.
+[11-5-2014 01:22:56] Tracker is counting time.
+[11-5-2014 01:23:56] Tracker is counting time.
+[11-5-2014 01:24:56] Tracker is counting time.
+[11-5-2014 01:25:56] Tracker is counting time.
+[11-5-2014 01:26:56] Tracker is counting time.
+[11-5-2014 01:27:56] Tracker is counting time.
+[11-5-2014 01:28:56] Tracker is counting time.
+[11-5-2014 01:29:56] Tracker is counting time.
+[11-5-2014 01:30:57] Tracker is counting time.
+[11-5-2014 01:31:57] Tracker is counting time.
+[11-5-2014 01:32:57] Tracker is counting time.
+[11-5-2014 01:33:57] Tracker is counting time.
+[11-5-2014 01:34:57] Tracker is counting time.
+[11-5-2014 01:35:57] Tracker is counting time.
+[11-5-2014 01:36:57] Tracker is counting time.
+[11-5-2014 01:37:57] Tracker is counting time.
+[11-5-2014 01:38:57] Tracker is counting time.
+[11-5-2014 01:39:57] Tracker is counting time.
+[11-5-2014 01:40:57] Tracker is counting time.
+[11-5-2014 01:41:57] Tracker is counting time.
+[11-5-2014 01:42:58] Tracker is counting time.
+[11-5-2014 01:43:58] Tracker is counting time.
+[11-5-2014 01:44:58] Tracker is counting time.
+[11-5-2014 01:45:58] Tracker is counting time.
+[11-5-2014 01:46:58] Tracker is counting time.
+[11-5-2014 01:47:58] Tracker is counting time.
+[11-5-2014 01:48:58] Tracker is counting time.
+[11-5-2014 01:49:58] Tracker is counting time.
+[11-5-2014 01:50:58] Tracker is counting time.
+[11-5-2014 01:51:58] Tracker is counting time.
+[11-5-2014 01:52:58] Tracker is counting time.
+[11-5-2014 01:53:58] Tracker is counting time.
+[11-5-2014 01:54:59] Tracker is counting time.
+[11-5-2014 01:55:59] Tracker is counting time.
+[11-5-2014 01:56:59] Tracker is counting time.
+[11-5-2014 01:57:59] Tracker is counting time.
+[11-5-2014 01:58:59] Tracker is counting time.
+[11-5-2014 01:59:59] Tracker is counting time.
+[11-5-2014 02:00:59] Tracker is counting time.
+[11-5-2014 02:01:59] Tracker is counting time.
+[11-5-2014 02:02:59] Tracker is counting time.
+[11-5-2014 02:03:59] Tracker is counting time.
+[11-5-2014 02:04:59] Tracker is counting time.
+[11-5-2014 02:05:59] Tracker is counting time.
+[11-5-2014 02:06:59] Tracker is counting time.
+[11-5-2014 02:08:00] Tracker is counting time.
+[11-5-2014 02:09:00] Tracker is counting time.
+[11-5-2014 02:10:00] Tracker is counting time.
+[11-5-2014 02:11:05] Tracker is counting time.
+[11-5-2014 02:12:05] Tracker is counting time.
+[11-5-2014 02:13:05] Tracker is counting time.
+[11-5-2014 02:14:05] Tracker is counting time.
+[11-5-2014 02:15:05] Tracker is counting time.
+[11-5-2014 02:16:05] Tracker is counting time.
+[11-5-2014 02:17:05] Tracker is counting time.
+[11-5-2014 02:18:05] Tracker is counting time.
+[11-5-2014 02:19:05] Tracker is counting time.
+[11-5-2014 02:20:06] Tracker is counting time.
+[11-5-2014 02:21:06] Tracker is counting time.
+[11-5-2014 02:22:06] Tracker is counting time.
+[11-5-2014 02:23:06] Tracker is counting time.
+[11-5-2014 02:24:06] Tracker is counting time.
+[11-5-2014 02:25:06] Tracker is counting time.
+[11-5-2014 02:26:06] Tracker is counting time.
+[11-5-2014 02:27:06] Tracker is counting time.
+[11-5-2014 02:28:06] Tracker is counting time.
+[11-5-2014 02:29:06] Tracker is counting time.
+[11-5-2014 02:30:06] Tracker is counting time.
+[11-5-2014 02:31:07] Tracker is counting time.
+[11-5-2014 02:32:07] Tracker is counting time.
+[11-5-2014 02:33:07] Tracker is counting time.
+[11-5-2014 02:34:07] Tracker is counting time.
+[11-5-2014 02:35:07] Tracker is counting time.
+[11-5-2014 02:36:07] Tracker is counting time.
+[11-5-2014 02:37:07] Tracker is counting time.
+[11-5-2014 02:38:07] Tracker is counting time.
+[11-5-2014 02:39:07] Tracker is counting time.
+[11-5-2014 02:40:07] Tracker is counting time.
+[11-5-2014 02:41:07] Tracker is counting time.
+[11-5-2014 02:42:07] Tracker is counting time.
+[11-5-2014 02:43:08] Tracker is counting time.
+[11-5-2014 02:44:08] Tracker is counting time.
+[11-5-2014 02:45:08] Tracker is counting time.
+[11-5-2014 02:46:08] Tracker is counting time.
+[11-5-2014 02:47:08] Tracker is counting time.
+[11-5-2014 02:48:08] Tracker is counting time.
+[11-5-2014 02:49:08] Tracker is counting time.
+[11-5-2014 02:50:08] Tracker is counting time.
+[11-5-2014 02:51:08] Tracker is counting time.
+[11-5-2014 02:52:08] Tracker is counting time.
+[11-5-2014 02:53:08] Tracker is counting time.
+[11-5-2014 02:54:08] Tracker is counting time.
+[11-5-2014 02:55:09] Tracker is counting time.
+[11-5-2014 02:56:09] Tracker is counting time.
+[11-5-2014 02:57:09] Tracker is counting time.
+[11-5-2014 02:58:09] Tracker is counting time.
+[11-5-2014 02:59:09] Tracker is counting time.
+[11-5-2014 03:00:09] Tracker is counting time.
+[11-5-2014 03:01:09] Tracker is counting time.
+[11-5-2014 03:02:09] Tracker is counting time.
+[11-5-2014 03:03:09] Tracker is counting time.
+[11-5-2014 03:04:09] Tracker is counting time.
+[11-5-2014 03:05:10] Tracker is counting time.
+[11-5-2014 03:06:10] Tracker is counting time.
+[11-5-2014 03:07:10] Tracker is counting time.
+[11-5-2014 03:08:10] Tracker is counting time.
+[11-5-2014 03:09:10] Tracker is counting time.
+[11-5-2014 03:10:10] Tracker is counting time.
+[11-5-2014 03:11:15] Tracker is counting time.
+[11-5-2014 03:12:15] Tracker is counting time.
+[11-5-2014 03:13:15] Tracker is counting time.
+[11-5-2014 03:14:15] Tracker is counting time.
+[11-5-2014 03:15:16] Tracker is counting time.
+[11-5-2014 03:16:16] Tracker is counting time.
+[11-5-2014 03:17:16] Tracker is counting time.
+[11-5-2014 03:18:16] Tracker is counting time.
+[11-5-2014 03:19:16] Tracker is counting time.
+[11-5-2014 03:20:16] Tracker is counting time.
+[11-5-2014 03:21:16] Tracker is counting time.
+[11-5-2014 03:22:16] Tracker is counting time.
+[11-5-2014 03:23:16] Tracker is counting time.
+[11-5-2014 03:24:16] Tracker is counting time.
+[11-5-2014 03:25:16] Tracker is counting time.
+[11-5-2014 03:26:16] Tracker is counting time.
+[11-5-2014 03:27:16] Tracker is counting time.
+[11-5-2014 03:28:17] Tracker is counting time.
+[11-5-2014 03:29:17] Tracker is counting time.
+[11-5-2014 03:30:17] Tracker is counting time.
+[11-5-2014 03:31:17] Tracker is counting time.
+[11-5-2014 03:32:17] Tracker is counting time.
+[11-5-2014 03:33:17] Tracker is counting time.
+[11-5-2014 03:34:17] Tracker is counting time.
+[11-5-2014 03:35:17] Tracker is counting time.
+[11-5-2014 03:36:17] Tracker is counting time.
+[11-5-2014 03:37:17] Tracker is counting time.
+[11-5-2014 03:38:18] Tracker is NOT counting time.
+[11-5-2014 03:39:24] Tracker is NOT counting time.
+[11-5-2014 03:40:34] Tracker is NOT counting time.
+[11-5-2014 03:41:40] Tracker is NOT counting time.
+[11-5-2014 03:42:47] Tracker is NOT counting time.
+[11-5-2014 03:43:54] Tracker is NOT counting time.
+[11-5-2014 03:45:00] Tracker is NOT counting time.
+[11-5-2014 03:46:05] Tracker is NOT counting time.
+[11-5-2014 03:47:11] Tracker is NOT counting time.
+[11-5-2014 03:48:17] Tracker is NOT counting time.
+[11-5-2014 03:49:23] Tracker is NOT counting time.
+[11-5-2014 03:50:29] Tracker is NOT counting time.
+[11-5-2014 03:51:35] Tracker is NOT counting time.
+[11-5-2014 03:52:41] Tracker is NOT counting time.
+[11-5-2014 03:53:46] Tracker is NOT counting time.
+[11-5-2014 03:54:52] Tracker is NOT counting time.
+[11-5-2014 03:55:58] Tracker is NOT counting time.
+[11-5-2014 03:57:04] Tracker is NOT counting time.
+[11-5-2014 03:58:10] Tracker is NOT counting time.
+[11-5-2014 03:59:15] Tracker is NOT counting time.
+[11-5-2014 04:00:21] Tracker is NOT counting time.
+[11-5-2014 04:01:27] Tracker is NOT counting time.
+[11-5-2014 04:02:33] Tracker is NOT counting time.
+[11-5-2014 04:03:38] Tracker is NOT counting time.
+[11-5-2014 04:04:44] Tracker is NOT counting time.
+[11-5-2014 04:05:50] Tracker is NOT counting time.
+[11-5-2014 04:06:56] Tracker is NOT counting time.
+[11-5-2014 04:08:01] Tracker is NOT counting time.
+[11-5-2014 04:09:07] Tracker is NOT counting time.
+[11-5-2014 04:10:13] Tracker is NOT counting time.
+[11-5-2014 04:11:18] Tracker is NOT counting time.
+[11-5-2014 04:12:24] Tracker is NOT counting time.
+[11-5-2014 04:13:30] Tracker is NOT counting time.
+[11-5-2014 04:14:36] Tracker is NOT counting time.
+[11-5-2014 04:15:42] Tracker is NOT counting time.
+[11-5-2014 04:16:48] Tracker is NOT counting time.
+[11-5-2014 04:17:54] Tracker is NOT counting time.
+[11-5-2014 04:19:00] Tracker is NOT counting time.
+[12-5-2014 07:21:30] directory separator: \
+[12-5-2014 07:21:31] Adding item: Monitor
+[12-5-2014 07:21:31] Adding item: Sounds
+[12-5-2014 07:21:31] Adding item: TimeTracker
+[12-5-2014 08:32:24] Tracker is counting time.
+[12-5-2014 08:33:24] Tracker is counting time.
+[12-5-2014 08:34:24] Tracker is counting time.
+[12-5-2014 08:35:24] Tracker is counting time.
+[12-5-2014 08:36:24] Tracker is counting time.
+[12-5-2014 08:37:24] Tracker is counting time.
+[12-5-2014 08:38:24] Tracker is counting time.
+[12-5-2014 08:39:24] Tracker is counting time.
+[12-5-2014 08:40:25] Tracker is counting time.
+[12-5-2014 08:41:25] Tracker is counting time.
+[12-5-2014 08:42:25] Tracker is counting time.
+[12-5-2014 08:43:25] Tracker is counting time.
+[12-5-2014 08:44:25] Tracker is counting time.
+[12-5-2014 08:45:25] Tracker is counting time.
+[12-5-2014 08:46:25] Tracker is counting time.
+[12-5-2014 08:47:25] Tracker is counting time.
+[12-5-2014 08:48:25] Tracker is counting time.
+[12-5-2014 08:49:25] Tracker is counting time.
+[12-5-2014 08:50:25] Tracker is counting time.
+[12-5-2014 08:51:25] Tracker is counting time.
+[12-5-2014 08:52:26] Tracker is counting time.
+[12-5-2014 08:53:26] Tracker is counting time.
+[12-5-2014 08:54:26] Tracker is counting time.
+[12-5-2014 08:55:26] Tracker is counting time.
+[12-5-2014 08:56:26] Tracker is counting time.
+[12-5-2014 08:57:26] Tracker is counting time.
+[12-5-2014 08:58:26] Tracker is counting time.
+[12-5-2014 08:59:26] Tracker is counting time.
+[12-5-2014 09:00:26] Tracker is counting time.
+[12-5-2014 09:01:26] Tracker is counting time.
+[12-5-2014 09:04:50] directory separator: \
+[12-5-2014 09:04:50] Adding item: Monitor
+[12-5-2014 09:04:50] Adding item: Sounds
+[12-5-2014 09:04:50] Adding item: TimeTracker
+[12-5-2014 09:04:54] Tracker is counting time.
+[12-5-2014 09:09:57] Tracker is counting time.
+[12-5-2014 09:10:57] Tracker is counting time.
+[12-5-2014 09:11:57] Tracker is counting time.
+[12-5-2014 09:12:57] Tracker is counting time.
+[12-5-2014 09:13:57] Tracker is counting time.
+[12-5-2014 09:14:57] Tracker is counting time.
+[12-5-2014 09:15:57] Tracker is counting time.
+[12-5-2014 09:16:57] Tracker is counting time.
+[12-5-2014 09:17:57] Tracker is counting time.
+[12-5-2014 09:18:57] Tracker is counting time.
+[12-5-2014 09:19:57] Tracker is counting time.
+[12-5-2014 09:20:58] Tracker is counting time.
+[12-5-2014 09:21:58] Tracker is counting time.
+[12-5-2014 09:22:58] Tracker is counting time.
+[12-5-2014 09:23:58] Tracker is counting time.
+[12-5-2014 09:24:58] Tracker is counting time.
+[12-5-2014 09:25:58] Tracker is counting time.
+[12-5-2014 09:26:58] Tracker is counting time.
+[12-5-2014 09:27:58] Tracker is counting time.
+[12-5-2014 09:28:58] Tracker is counting time.
+[12-5-2014 09:29:58] Tracker is counting time.
+[12-5-2014 09:30:58] Tracker is counting time.
+[12-5-2014 09:31:58] Tracker is counting time.
+[12-5-2014 09:32:59] Tracker is counting time.
+[12-5-2014 09:33:59] Tracker is counting time.
+[12-5-2014 09:34:59] Tracker is counting time.
+[12-5-2014 09:35:59] Tracker is counting time.
+[12-5-2014 09:36:59] Tracker is counting time.
+[12-5-2014 09:37:59] Tracker is counting time.
+[12-5-2014 09:38:59] Tracker is counting time.
+[12-5-2014 09:39:59] Tracker is counting time.
+[12-5-2014 09:40:59] Tracker is counting time.
+[12-5-2014 09:41:59] Tracker is counting time.
+[12-5-2014 09:43:00] Tracker is counting time.
+[12-5-2014 09:44:00] Tracker is NOT counting time.
+[12-5-2014 09:45:01] Tracker is NOT counting time.
+[12-5-2014 09:46:02] Tracker is NOT counting time.
+[12-5-2014 09:47:02] Tracker is NOT counting time.
+[12-5-2014 09:48:03] Tracker is NOT counting time.
+[12-5-2014 09:49:04] Tracker is NOT counting time.
+[12-5-2014 09:50:05] Tracker is NOT counting time.
+[12-5-2014 09:51:05] Tracker is NOT counting time.
+[12-5-2014 09:52:06] Tracker is NOT counting time.
+[12-5-2014 09:53:07] Tracker is NOT counting time.
+[12-5-2014 09:54:08] Tracker is NOT counting time.
+[12-5-2014 09:55:08] Tracker is NOT counting time.
+[12-5-2014 09:56:09] Tracker is NOT counting time.
+[12-5-2014 09:57:10] Tracker is NOT counting time.
+[12-5-2014 09:58:11] Tracker is NOT counting time.
+[12-5-2014 09:59:11] Tracker is counting time.
+[12-5-2014 10:00:11] Tracker is counting time.
+[12-5-2014 10:01:11] Tracker is counting time.
+[12-5-2014 10:02:11] Tracker is counting time.
+[12-5-2014 10:03:11] Tracker is counting time.
+[12-5-2014 10:04:11] Tracker is counting time.
+[12-5-2014 10:05:11] Tracker is counting time.
+[12-5-2014 10:06:11] Tracker is counting time.
+[12-5-2014 10:07:11] Tracker is counting time.
+[12-5-2014 10:08:11] Tracker is counting time.
+[12-5-2014 10:09:11] Tracker is counting time.
+[12-5-2014 10:10:11] Tracker is counting time.
+[12-5-2014 10:11:11] Tracker is counting time.
+[12-5-2014 10:12:12] Tracker is counting time.
+[12-5-2014 10:13:12] Tracker is counting time.
+[12-5-2014 10:14:12] Tracker is counting time.
+[12-5-2014 10:15:12] Tracker is counting time.
+[12-5-2014 10:16:12] Tracker is counting time.
