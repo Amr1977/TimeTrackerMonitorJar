@@ -1,0 +1,37 @@
+[15-5-2014 04:27:56] Loaded CFG file c:\TimetrackerMonitor\config.txt
+[15-5-2014 04:30:37] Loaded CFG file c:\TimetrackerMonitor\config.txt
+[15-5-2014 04:32:28] Loaded CFG file c:\TimetrackerMonitor\config.txt
+[15-5-2014 04:33:31] Loaded CFG file c:\TimetrackerMonitor\config.txt
+[15-5-2014 04:34:32] Loaded CFG file c:\TimetrackerMonitor\config.txt
+[15-5-2014 04:41:27] Loaded CFG file c:\TimetrackerMonitor\config.txt
+[15-5-2014 04:41:31] Loaded CFG file c:\TimetrackerMonitor\config.txt
+[15-5-2014 04:41:33] Loaded CFG file c:\TimetrackerMonitor\config.txt
+[15-5-2014 04:41:36] Loaded CFG file c:\TimetrackerMonitor\config.txt
+[15-5-2014 04:42:38] Loaded CFG file c:\TimetrackerMonitor\config.txt
+[15-5-2014 04:43:48] Loaded CFG file c:\TimetrackerMonitor\config.txt
+[15-5-2014 04:44:36] Loaded CFG file c:\TimetrackerMonitor\config.txt
+[15-5-2014 04:44:36] directory separator: \
+[15-5-2014 04:44:36] Adding item: Monitor
+[15-5-2014 04:44:36] Adding item: Sounds
+[15-5-2014 04:44:36] Adding item: TimeTracker
+[15-5-2014 04:44:51] Tracker is counting time.
+[15-5-2014 04:45:52] Tracker is counting time.
+[15-5-2014 04:46:20] Loaded CFG file c:\TimetrackerMonitor\config.txt
+[15-5-2014 04:46:20] directory separator: \
+[15-5-2014 04:46:20] Adding item: Monitor
+[15-5-2014 04:46:20] Adding item: Sounds
+[15-5-2014 04:46:20] Adding item: TimeTracker
+[15-5-2014 04:46:21] Tracker is counting time.
+[15-5-2014 04:46:21] Monitored ON time: 0
+[15-5-2014 04:46:52] Tracker is counting time.
+[15-5-2014 04:51:53] Loaded CFG file c:\TimetrackerMonitor\config.txt
+[15-5-2014 04:51:53] directory separator: \
+[15-5-2014 04:51:53] Adding item: Monitor
+[15-5-2014 04:51:53] Adding item: Sounds
+[15-5-2014 04:51:53] Adding item: TimeTracker
+[15-5-2014 04:51:57] Tracker is counting time.
+[15-5-2014 04:51:57] Monitored ON time: 0
+[15-5-2014 04:52:57] Tracker is counting time.
+[15-5-2014 04:52:57] Monitored ON time: 1
+[15-5-2014 04:53:58] Tracker is counting time.
+[15-5-2014 04:53:58] Monitored ON time: 2

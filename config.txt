@@ -1,0 +1,1 @@
+prayer_interval=30
