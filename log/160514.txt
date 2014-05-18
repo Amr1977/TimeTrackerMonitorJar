@@ -413,3 +413,358 @@
 [16-5-2014 02:09:45] Monitored ON time: 38
 [16-5-2014 02:10:45] Tracker is counting time.
 [16-5-2014 02:10:46] Monitored ON time: 39
+[16-5-2014 02:16:56] Loaded CFG file c:\TimetrackerMonitor\config.txt
+[16-5-2014 02:16:56] directory separator: \
+[16-5-2014 02:16:56] Adding item: Monitor
+[16-5-2014 02:16:56] Adding item: Sounds
+[16-5-2014 02:16:56] Adding item: TimeTracker
+[16-5-2014 02:17:01] Tracker is counting time.
+[16-5-2014 02:17:01] Monitored ON time: 0
+[16-5-2014 02:18:02] Tracker is counting time.
+[16-5-2014 02:18:02] Monitored ON time: 1
+[16-5-2014 02:19:02] Tracker is counting time.
+[16-5-2014 02:19:02] Monitored ON time: 2
+[16-5-2014 02:20:02] Tracker is counting time.
+[16-5-2014 02:20:03] Monitored ON time: 3
+[16-5-2014 02:21:03] Tracker is counting time.
+[16-5-2014 02:21:03] Monitored ON time: 4
+[16-5-2014 02:22:10] monitored OFF time: 0
+[16-5-2014 02:23:17] monitored OFF time: 1
+[16-5-2014 02:24:24] monitored OFF time: 2
+[16-5-2014 02:25:31] monitored OFF time: 3
+[16-5-2014 02:26:38] monitored OFF time: 4
+[16-5-2014 02:27:45] monitored OFF time: 5
+[16-5-2014 02:28:52] monitored OFF time: 6
+[16-5-2014 02:29:59] monitored OFF time: 7
+[16-5-2014 02:31:06] monitored OFF time: 8
+[16-5-2014 02:32:13] monitored OFF time: 9
+[16-5-2014 02:33:20] monitored OFF time: 10
+[16-5-2014 02:34:27] monitored OFF time: 11
+[16-5-2014 02:35:35] monitored OFF time: 12
+[16-5-2014 02:36:41] monitored OFF time: 13
+[16-5-2014 02:37:48] monitored OFF time: 14
+[16-5-2014 02:38:55] monitored OFF time: 15
+[16-5-2014 02:40:02] monitored OFF time: 16
+[16-5-2014 02:41:09] monitored OFF time: 17
+[16-5-2014 02:42:16] monitored OFF time: 18
+[16-5-2014 02:43:23] monitored OFF time: 19
+[16-5-2014 02:44:30] monitored OFF time: 20
+[16-5-2014 02:45:37] monitored OFF time: 21
+[16-5-2014 02:46:44] monitored OFF time: 22
+[16-5-2014 02:47:51] monitored OFF time: 23
+[16-5-2014 02:48:58] monitored OFF time: 24
+[16-5-2014 02:50:05] monitored OFF time: 25
+[16-5-2014 02:51:12] monitored OFF time: 26
+[16-5-2014 02:52:19] monitored OFF time: 27
+[16-5-2014 02:53:26] monitored OFF time: 28
+[16-5-2014 02:54:33] monitored OFF time: 29
+[16-5-2014 02:55:40] monitored OFF time: 30
+[16-5-2014 02:56:40] Tracker is counting time.
+[16-5-2014 02:56:40] Monitored ON time: 0
+[16-5-2014 02:57:41] Tracker is counting time.
+[16-5-2014 02:57:41] Monitored ON time: 1
+[16-5-2014 02:58:41] Tracker is counting time.
+[16-5-2014 02:58:41] Monitored ON time: 2
+[16-5-2014 02:59:48] monitored OFF time: 0
+[16-5-2014 03:00:55] monitored OFF time: 1
+[16-5-2014 03:02:02] monitored OFF time: 2
+[16-5-2014 03:03:10] monitored OFF time: 3
+[16-5-2014 03:04:17] monitored OFF time: 4
+[16-5-2014 03:05:24] monitored OFF time: 5
+[16-5-2014 03:06:24] Tracker is counting time.
+[16-5-2014 03:06:24] Monitored ON time: 0
+[16-5-2014 03:07:25] Tracker is counting time.
+[16-5-2014 03:07:25] Monitored ON time: 1
+[16-5-2014 03:08:25] Tracker is counting time.
+[16-5-2014 03:08:25] Monitored ON time: 2
+[16-5-2014 03:09:25] Tracker is counting time.
+[16-5-2014 03:09:25] Monitored ON time: 3
+[16-5-2014 03:10:26] Tracker is counting time.
+[16-5-2014 03:10:26] Monitored ON time: 4
+[16-5-2014 03:11:26] Tracker is counting time.
+[16-5-2014 03:11:26] Monitored ON time: 5
+[16-5-2014 03:12:27] Tracker is counting time.
+[16-5-2014 03:12:27] Monitored ON time: 6
+[16-5-2014 03:13:27] Tracker is counting time.
+[16-5-2014 03:13:27] Monitored ON time: 7
+[16-5-2014 03:14:27] Tracker is counting time.
+[16-5-2014 03:14:27] Monitored ON time: 8
+[16-5-2014 03:15:28] Tracker is counting time.
+[16-5-2014 03:15:28] Monitored ON time: 9
+[16-5-2014 03:16:28] Tracker is counting time.
+[16-5-2014 03:16:28] Monitored ON time: 10
+[16-5-2014 03:17:29] Tracker is counting time.
+[16-5-2014 03:17:29] Monitored ON time: 11
+[16-5-2014 03:18:29] Tracker is counting time.
+[16-5-2014 03:18:29] Monitored ON time: 12
+[16-5-2014 03:19:29] Tracker is counting time.
+[16-5-2014 03:19:29] Monitored ON time: 13
+[16-5-2014 03:20:30] Tracker is counting time.
+[16-5-2014 03:20:30] Monitored ON time: 14
+[16-5-2014 03:21:30] Tracker is counting time.
+[16-5-2014 03:21:30] Monitored ON time: 15
+[16-5-2014 03:22:31] Tracker is counting time.
+[16-5-2014 03:22:31] Monitored ON time: 16
+[16-5-2014 03:23:31] Tracker is counting time.
+[16-5-2014 03:23:31] Monitored ON time: 17
+[16-5-2014 03:24:31] Tracker is counting time.
+[16-5-2014 03:24:31] Monitored ON time: 18
+[16-5-2014 03:25:32] Tracker is counting time.
+[16-5-2014 03:25:32] Monitored ON time: 19
+[16-5-2014 03:26:32] Tracker is counting time.
+[16-5-2014 03:26:32] Monitored ON time: 20
+[16-5-2014 03:27:33] Tracker is counting time.
+[16-5-2014 03:27:33] Monitored ON time: 21
+[16-5-2014 03:28:33] Tracker is counting time.
+[16-5-2014 03:28:33] Monitored ON time: 22
+[16-5-2014 03:29:33] Tracker is counting time.
+[16-5-2014 03:29:33] Monitored ON time: 23
+[16-5-2014 03:30:34] Tracker is counting time.
+[16-5-2014 03:30:34] Monitored ON time: 24
+[16-5-2014 03:31:34] Tracker is counting time.
+[16-5-2014 03:31:34] Monitored ON time: 25
+[16-5-2014 03:32:35] Tracker is counting time.
+[16-5-2014 03:32:35] Monitored ON time: 26
+[16-5-2014 03:33:35] Tracker is counting time.
+[16-5-2014 03:33:35] Monitored ON time: 27
+[16-5-2014 03:34:36] Tracker is counting time.
+[16-5-2014 03:34:36] Monitored ON time: 28
+[16-5-2014 03:35:36] Tracker is counting time.
+[16-5-2014 03:35:36] Monitored ON time: 29
+[16-5-2014 03:35:36] GOTO Pray :)
+[16-5-2014 03:36:39] Tracker is counting time.
+[16-5-2014 03:36:40] Monitored ON time: 30
+[16-5-2014 03:37:40] Tracker is counting time.
+[16-5-2014 03:37:40] Monitored ON time: 31
+[16-5-2014 03:38:40] Tracker is counting time.
+[16-5-2014 03:38:40] Monitored ON time: 32
+[16-5-2014 03:39:41] Tracker is counting time.
+[16-5-2014 03:39:41] Monitored ON time: 33
+[16-5-2014 03:40:41] Tracker is counting time.
+[16-5-2014 03:40:41] Monitored ON time: 34
+[16-5-2014 03:41:42] Tracker is counting time.
+[16-5-2014 03:41:42] Monitored ON time: 35
+[16-5-2014 03:42:42] Tracker is counting time.
+[16-5-2014 03:42:42] Monitored ON time: 36
+[16-5-2014 03:43:42] Tracker is counting time.
+[16-5-2014 03:43:42] Monitored ON time: 37
+[16-5-2014 03:44:43] Tracker is counting time.
+[16-5-2014 03:44:43] Monitored ON time: 38
+[16-5-2014 03:45:47] Tracker is NOT counting time.
+[16-5-2014 03:45:50] monitored OFF time: 0
+[16-5-2014 03:46:57] Tracker is NOT counting time.
+[16-5-2014 03:47:00] monitored OFF time: 1
+[16-5-2014 03:48:06] Tracker is NOT counting time.
+[16-5-2014 03:48:09] monitored OFF time: 2
+[16-5-2014 03:49:16] Tracker is NOT counting time.
+[16-5-2014 03:49:19] monitored OFF time: 3
+[16-5-2014 03:50:29] Tracker is NOT counting time.
+[16-5-2014 03:50:32] monitored OFF time: 4
+[16-5-2014 03:51:42] Tracker is NOT counting time.
+[16-5-2014 03:51:45] monitored OFF time: 5
+[16-5-2014 03:52:49] Tracker is NOT counting time.
+[16-5-2014 03:52:52] monitored OFF time: 6
+[16-5-2014 03:53:56] Tracker is NOT counting time.
+[16-5-2014 03:53:59] monitored OFF time: 7
+[16-5-2014 03:55:03] Tracker is NOT counting time.
+[16-5-2014 03:55:06] monitored OFF time: 8
+[16-5-2014 03:56:10] Tracker is NOT counting time.
+[16-5-2014 03:56:13] monitored OFF time: 9
+[16-5-2014 03:57:17] Tracker is NOT counting time.
+[16-5-2014 03:57:20] monitored OFF time: 10
+[16-5-2014 03:58:24] Tracker is NOT counting time.
+[16-5-2014 03:58:27] monitored OFF time: 11
+[16-5-2014 03:59:31] Tracker is NOT counting time.
+[16-5-2014 03:59:34] monitored OFF time: 12
+[16-5-2014 04:00:38] Tracker is NOT counting time.
+[16-5-2014 04:00:41] monitored OFF time: 13
+[16-5-2014 04:01:45] Tracker is NOT counting time.
+[16-5-2014 04:01:48] monitored OFF time: 14
+[16-5-2014 04:02:52] Tracker is NOT counting time.
+[16-5-2014 04:02:55] monitored OFF time: 15
+[16-5-2014 04:03:58] Tracker is NOT counting time.
+[16-5-2014 04:04:02] monitored OFF time: 16
+[16-5-2014 04:05:05] Tracker is NOT counting time.
+[16-5-2014 04:05:08] monitored OFF time: 17
+[16-5-2014 04:06:12] Tracker is NOT counting time.
+[16-5-2014 04:06:15] monitored OFF time: 18
+[16-5-2014 04:07:20] Tracker is NOT counting time.
+[16-5-2014 04:07:23] monitored OFF time: 19
+[16-5-2014 04:08:27] Tracker is NOT counting time.
+[16-5-2014 04:08:30] monitored OFF time: 20
+[16-5-2014 04:09:34] Tracker is NOT counting time.
+[16-5-2014 04:09:37] monitored OFF time: 21
+[16-5-2014 04:10:41] Tracker is NOT counting time.
+[16-5-2014 04:10:44] monitored OFF time: 22
+[16-5-2014 04:11:48] Tracker is NOT counting time.
+[16-5-2014 04:11:51] monitored OFF time: 23
+[16-5-2014 04:12:52] Tracker is counting time.
+[16-5-2014 04:12:52] Monitored ON time: 0
+[16-5-2014 04:13:52] Tracker is counting time.
+[16-5-2014 04:13:52] Monitored ON time: 1
+[16-5-2014 04:14:53] Tracker is counting time.
+[16-5-2014 04:14:53] Monitored ON time: 2
+[16-5-2014 04:15:53] Tracker is counting time.
+[16-5-2014 04:15:53] Monitored ON time: 3
+[16-5-2014 04:16:53] Tracker is counting time.
+[16-5-2014 04:16:53] Monitored ON time: 4
+[16-5-2014 04:17:54] Tracker is counting time.
+[16-5-2014 04:17:54] Monitored ON time: 5
+[16-5-2014 04:18:54] Tracker is counting time.
+[16-5-2014 04:18:54] Monitored ON time: 6
+[16-5-2014 04:19:55] Tracker is counting time.
+[16-5-2014 04:19:55] Monitored ON time: 7
+[16-5-2014 04:20:55] Tracker is counting time.
+[16-5-2014 04:20:55] Monitored ON time: 8
+[16-5-2014 04:21:55] Tracker is counting time.
+[16-5-2014 04:21:56] Monitored ON time: 9
+[16-5-2014 04:22:56] Tracker is counting time.
+[16-5-2014 04:22:56] Monitored ON time: 10
+[16-5-2014 04:23:56] Tracker is counting time.
+[16-5-2014 04:23:56] Monitored ON time: 11
+[16-5-2014 04:24:57] Tracker is counting time.
+[16-5-2014 04:24:57] Monitored ON time: 12
+[16-5-2014 04:25:57] Tracker is counting time.
+[16-5-2014 04:25:57] Monitored ON time: 13
+[16-5-2014 04:26:57] Tracker is counting time.
+[16-5-2014 04:26:58] Monitored ON time: 14
+[16-5-2014 04:27:58] Tracker is counting time.
+[16-5-2014 04:27:58] Monitored ON time: 15
+[16-5-2014 04:28:58] Tracker is counting time.
+[16-5-2014 04:28:58] Monitored ON time: 16
+[16-5-2014 05:29:58] Tracker is counting time.
+[16-5-2014 05:29:58] Monitored ON time: 17
+[16-5-2014 05:30:58] Tracker is counting time.
+[16-5-2014 05:30:58] Monitored ON time: 18
+[16-5-2014 05:31:58] Tracker is counting time.
+[16-5-2014 05:31:58] Monitored ON time: 19
+[16-5-2014 05:32:59] Tracker is counting time.
+[16-5-2014 05:32:59] Monitored ON time: 20
+[16-5-2014 05:33:59] Tracker is counting time.
+[16-5-2014 05:33:59] Monitored ON time: 21
+[16-5-2014 05:35:00] Tracker is counting time.
+[16-5-2014 05:35:00] Monitored ON time: 22
+[16-5-2014 05:36:00] Tracker is counting time.
+[16-5-2014 05:36:00] Monitored ON time: 23
+[16-5-2014 05:37:01] Tracker is counting time.
+[16-5-2014 05:37:01] Monitored ON time: 24
+[16-5-2014 05:38:01] Tracker is counting time.
+[16-5-2014 05:38:01] Monitored ON time: 25
+[16-5-2014 05:39:02] Tracker is counting time.
+[16-5-2014 05:39:02] Monitored ON time: 26
+[16-5-2014 05:40:02] Tracker is counting time.
+[16-5-2014 05:40:02] Monitored ON time: 27
+[16-5-2014 05:41:02] Tracker is counting time.
+[16-5-2014 05:41:02] Monitored ON time: 28
+[16-5-2014 05:42:03] Tracker is counting time.
+[16-5-2014 05:42:03] Monitored ON time: 29
+[16-5-2014 05:42:03] GOTO Pray :)
+[16-5-2014 05:43:06] Tracker is counting time.
+[16-5-2014 05:43:06] Monitored ON time: 30
+[16-5-2014 05:44:07] Tracker is counting time.
+[16-5-2014 05:44:07] Monitored ON time: 31
+[16-5-2014 05:45:07] Tracker is counting time.
+[16-5-2014 05:45:07] Monitored ON time: 32
+[16-5-2014 05:46:08] Tracker is counting time.
+[16-5-2014 05:46:08] Monitored ON time: 33
+[16-5-2014 05:47:08] Tracker is counting time.
+[16-5-2014 05:47:08] Monitored ON time: 34
+[16-5-2014 05:48:08] Tracker is counting time.
+[16-5-2014 05:48:09] Monitored ON time: 35
+[16-5-2014 05:49:09] Tracker is counting time.
+[16-5-2014 05:49:09] Monitored ON time: 36
+[16-5-2014 05:50:09] Tracker is counting time.
+[16-5-2014 05:50:09] Monitored ON time: 37
+[16-5-2014 05:51:10] Tracker is counting time.
+[16-5-2014 05:51:10] Monitored ON time: 38
+[16-5-2014 05:52:10] Tracker is counting time.
+[16-5-2014 05:52:10] Monitored ON time: 39
+[16-5-2014 05:53:11] Tracker is counting time.
+[16-5-2014 05:53:11] Monitored ON time: 40
+[16-5-2014 05:54:11] Tracker is counting time.
+[16-5-2014 05:54:11] Monitored ON time: 41
+[16-5-2014 05:55:12] Tracker is counting time.
+[16-5-2014 05:55:12] Monitored ON time: 42
+[16-5-2014 05:56:12] Tracker is counting time.
+[16-5-2014 05:56:12] Monitored ON time: 43
+[16-5-2014 05:57:12] Tracker is counting time.
+[16-5-2014 05:57:13] Monitored ON time: 44
+[16-5-2014 05:58:13] Tracker is counting time.
+[16-5-2014 05:58:13] Monitored ON time: 45
+[16-5-2014 05:59:13] Tracker is counting time.
+[16-5-2014 05:59:13] Monitored ON time: 46
+[16-5-2014 06:00:14] Tracker is counting time.
+[16-5-2014 06:00:14] Monitored ON time: 47
+[16-5-2014 06:01:14] Tracker is counting time.
+[16-5-2014 06:01:14] Monitored ON time: 48
+[16-5-2014 06:02:15] Tracker is counting time.
+[16-5-2014 06:02:15] Monitored ON time: 49
+[16-5-2014 06:03:15] Tracker is counting time.
+[16-5-2014 06:03:15] Monitored ON time: 50
+[16-5-2014 06:04:15] Tracker is counting time.
+[16-5-2014 06:04:15] Monitored ON time: 51
+[16-5-2014 06:05:16] Tracker is counting time.
+[16-5-2014 06:05:16] Monitored ON time: 52
+[16-5-2014 06:06:21] Tracker is NOT counting time.
+[16-5-2014 06:06:25] monitored OFF time: 0
+[16-5-2014 06:07:30] Tracker is NOT counting time.
+[16-5-2014 06:07:33] monitored OFF time: 1
+[16-5-2014 06:08:37] Tracker is NOT counting time.
+[16-5-2014 06:08:40] monitored OFF time: 2
+[16-5-2014 06:09:44] Tracker is NOT counting time.
+[16-5-2014 06:09:47] monitored OFF time: 3
+[16-5-2014 06:10:51] Tracker is NOT counting time.
+[16-5-2014 06:10:54] monitored OFF time: 4
+[16-5-2014 06:11:55] Tracker is counting time.
+[16-5-2014 06:11:55] Monitored ON time: 0
+[16-5-2014 06:12:55] Tracker is counting time.
+[16-5-2014 06:12:55] Monitored ON time: 1
+[16-5-2014 06:13:55] Tracker is counting time.
+[16-5-2014 06:13:56] Monitored ON time: 2
+[16-5-2014 06:14:56] Tracker is counting time.
+[16-5-2014 06:14:56] Monitored ON time: 3
+[16-5-2014 06:15:56] Tracker is counting time.
+[16-5-2014 06:15:56] Monitored ON time: 4
+[16-5-2014 06:16:57] Tracker is counting time.
+[16-5-2014 06:16:57] Monitored ON time: 5
+[16-5-2014 06:17:57] Tracker is counting time.
+[16-5-2014 06:17:57] Monitored ON time: 6
+[16-5-2014 06:18:58] Tracker is counting time.
+[16-5-2014 06:18:58] Monitored ON time: 7
+[16-5-2014 06:19:58] Tracker is counting time.
+[16-5-2014 06:19:58] Monitored ON time: 8
+[16-5-2014 06:20:58] Tracker is counting time.
+[16-5-2014 06:20:59] Monitored ON time: 9
+[16-5-2014 06:21:59] Tracker is counting time.
+[16-5-2014 06:21:59] Monitored ON time: 10
+[16-5-2014 06:22:59] Tracker is counting time.
+[16-5-2014 06:22:59] Monitored ON time: 11
+[16-5-2014 06:24:00] Tracker is counting time.
+[16-5-2014 06:24:00] Monitored ON time: 12
+[16-5-2014 06:25:00] Tracker is counting time.
+[16-5-2014 06:25:00] Monitored ON time: 13
+[16-5-2014 06:26:01] Tracker is counting time.
+[16-5-2014 06:26:01] Monitored ON time: 14
+[16-5-2014 06:27:01] Tracker is counting time.
+[16-5-2014 06:27:01] Monitored ON time: 15
+[16-5-2014 06:28:01] Tracker is counting time.
+[16-5-2014 06:28:01] Monitored ON time: 16
+[16-5-2014 06:29:02] Tracker is counting time.
+[16-5-2014 06:29:02] Monitored ON time: 17
+[16-5-2014 06:30:02] Tracker is counting time.
+[16-5-2014 06:30:02] Monitored ON time: 18
+[16-5-2014 06:31:03] Tracker is counting time.
+[16-5-2014 06:31:03] Monitored ON time: 19
+[16-5-2014 06:32:03] Tracker is counting time.
+[16-5-2014 06:32:03] Monitored ON time: 20
+[16-5-2014 06:33:04] Tracker is counting time.
+[16-5-2014 06:33:04] Monitored ON time: 21
+[16-5-2014 06:34:04] Tracker is counting time.
+[16-5-2014 06:34:04] Monitored ON time: 22
+[16-5-2014 06:35:04] Tracker is counting time.
+[16-5-2014 06:35:05] Monitored ON time: 23
+[16-5-2014 06:36:05] Tracker is counting time.
+[16-5-2014 06:36:05] Monitored ON time: 24
+[16-5-2014 06:37:05] Tracker is counting time.
+[16-5-2014 06:37:05] Monitored ON time: 25
+[16-5-2014 06:38:17] monitored OFF time: 0
