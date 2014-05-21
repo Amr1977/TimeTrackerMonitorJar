@@ -6,3 +6,6 @@ to customize how time tracker icon looks when playing/on replace resources\TimeT
 use config.txt to customize behaviour 
 
 enjoy :)
+
+
+Note: a collaboration needed to add possbile Tray Icons (for on/off states and also for the monitor itself) and adding more sounds for future modifications
