@@ -4,3 +4,4 @@ FAIL_SOUND_ON=1
 long-off=20
 off-interval-alert=5 ; not implemented yet
 on-interval-alert=5 ; not implemented yet
+TRAY_NOTIFICATIONS_ON=1
