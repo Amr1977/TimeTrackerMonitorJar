@@ -1,5 +1,7 @@
 @echo off
-xcopy . c:\TimeTrackerMonitor /s /y /i
+
+del .\*.ini /s /f /q /a >nul 2>&1
+xcopy . c:\TimeTrackerMonitor /e /c /i /q /r /y >nul 2>&1
 c: 
 cd TimeTrackerMonitor
 run.cmd
