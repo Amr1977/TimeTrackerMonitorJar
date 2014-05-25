@@ -1,7 +1,7 @@
 prayer_interval=30
-PASS_SOUND_ON=0
+PASS_SOUND_ON=1
 FAIL_SOUND_ON=1
-long-off=20
+long-off=5
 off-interval-alert=5 ; not implemented yet
 on-interval-alert=5 ; not implemented yet
 TRAY_NOTIFICATIONS_ON=1
